@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/.vs
+/XManager/.vs/XManager
+*.user
+/XManager/QtBindFunction/x64/Debug
+/XManager/x64/Debug
