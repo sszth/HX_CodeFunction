@@ -35,3 +35,4 @@
 *.user
 /XManager/QtBindFunction/x64/Debug
 /XManager/x64/Debug
+/XManager/XWindowGaussianFilter/x64/Debug
